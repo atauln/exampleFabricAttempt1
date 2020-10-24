@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.atom.exampleFabricAttempt1.exampleFabricAttempt1"
     ]
   },
   "mixins": [
